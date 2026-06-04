@@ -1,4 +1,19 @@
+# Inductors
 - Energy storing device
 - Resists change in current due to Lenz's Law - a back/opposing EMF force is briefly created to resist immediate current change
-    - the opposing EMF induces voltage spikes at instantaneous moment voltage of circuit changes
-<img width="1920" height="982" alt="image" src="https://github.com/user-attachments/assets/2ebe96c6-1f58-4d7d-bdd9-d7cb1de6cc93" />
+    - the opposing EMF induces voltage spikes at the instananeous time Vsource changes
+    - the Voltage across Inductor is always proportional to dI/dt as seen below.
+    - **V proportional to dI/dt**
+![alt text](image.png)
+This circuit has an ideal inductor with zero series resistance.
+
+V = L(dI/dt)
+L = [u(N^2)A]/l
+L = N(phi)/I
+
+Reactance (X_L) = opposition to AC
+X_L = 2(pi)fL = (omega)L
+
+Impedance = total opposition to current flow, resistance & reactance (real and imaginary)
+
+Inductor in series with resistance: Z = sqrt(R^2 + (X_L)^2)
