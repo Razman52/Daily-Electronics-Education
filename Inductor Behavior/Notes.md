@@ -4,7 +4,7 @@
     - the opposing EMF induces voltage spikes at the instananeous time Vsource changes
     - the Voltage across Inductor is always proportional to dI/dt as seen below.
     - **V proportional to dI/dt**
-![alt text](Inductance-dIdt-behavior.png)
+![alt text](dIdt.png)
 This circuit has an ideal inductor with zero series resistance.
 
 V = L(dI/dt), **higher L, smaller dI/dt, and vice versa**
