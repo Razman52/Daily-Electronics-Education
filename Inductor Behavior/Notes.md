@@ -18,3 +18,5 @@ X_L = 2(pi)fL = (omega)L
 Impedance = total opposition to current flow, resistance & reactance (real and imaginary)
 
 Inductor in series with resistance: Z = sqrt(R^2 + (X_L)^2)
+
+**Inductor acts as short circuit in DC, once the instantaneous voltage drop turns into mfield, voltage drop across it becomes zero.**
